@@ -1,4 +1,5 @@
-Welcome to your new dbt project!
+### dbt in an architecture workflow diagram
+![dbt Architecture Diagram drawio (1)](https://user-images.githubusercontent.com/67403465/231117651-7633bd9a-f5be-481d-a705-52e219efebb4.png)
 
 ### Using the starter project
 
