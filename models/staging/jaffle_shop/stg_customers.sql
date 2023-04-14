@@ -2,7 +2,7 @@ with
 
 source as (
 
-    SELECT * FROM {{ source('jaffle_shop', 'customers') }}
+    SELECT * FROM default.jaffle_shop_customers
 
 )
 
